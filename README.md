@@ -1,7 +1,3 @@
-Para o seu projeto, aqui está um exemplo de README estruturado para explicar o funcionamento do código, os dados e as análises realizadas:
-
----
-
 # Dividendos- Automáticos 
 
 Este projeto visa analisar o desempenho de uma estratégia baseada em dividendos de empresas (DY) e comparar seu retorno acumulado com o índice Ibovespa. Utilizando bibliotecas como `pandas` e `quantstats`, o script avalia a performance de uma carteira que prioriza empresas com maiores rendimentos de dividendos ao longo do tempo.
